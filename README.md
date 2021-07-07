@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: linkedin.com/in/afiflee
+📫 How to reach me: <a href="https://linktr.ee/afiflee">CLICK HERE</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afiflee)](https://github.com/anuraghazra/github-readme-stats)
 
